@@ -10,6 +10,5 @@ public class VariableExchangeExample {
         x = y; // 변수 y값 5를 x에 저장
         y = temp; // 변수 temp값 3을 y에 저장
         System.out.println("x: " + x + ", y: " + y);
-        // 푸쉬 확인
     }
 }
